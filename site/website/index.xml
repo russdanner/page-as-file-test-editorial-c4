@@ -13,7 +13,7 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2022-08-02T14:33:03.208Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-08-02T14:35:28.523Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-08-02T14:36:16.387Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
   <hero_title_html>&lt;h1&gt;Hi, I&amp;rsquo;m Editorial&lt;/h1&gt;
@@ -48,6 +48,24 @@
         <createdDate_dt>2019-10-11T19:20:07.555Z</createdDate_dt>
         <lastModifiedDate>2019-12-22T11:56:51.172Z</lastModifiedDate>
         <lastModifiedDate_dt>2019-12-22T11:56:51.172Z</lastModifiedDate_dt>
+      </component>
+    </item>
+    <item datasource="" inline="true">
+      <key>9a820247-eeba-4dd8-bf06-00d7aa54ccb8</key>
+      <value><![CDATA[New Feature]]></value>
+      <component id="9a820247-eeba-4dd8-bf06-00d7aa54ccb8">
+        <content-type>/component/feature</content-type>
+        <display-template>/templates/web/components/feature.ftl</display-template>
+        <internal-name><![CDATA[New Feature]]></internal-name>
+        <file-name>9a820247-eeba-4dd8-bf06-00d7aa54ccb8.xml</file-name>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <createdDate_dt>2022-08-02T14:36:16.385Z</createdDate_dt>
+        <lastModifiedDate_dt>2022-08-02T14:36:16.385Z</lastModifiedDate_dt>
+        <objectId>9a820247-eeba-4dd8-bf06-00d7aa54ccb8</objectId>
+        <disabled>false</disabled>
+        <icon_s><![CDATA[fa-closed-captioning far]]></icon_s>
+        <title_t><![CDATA[Feature Title]]></title_t>
+        <body_html><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></body_html>
       </component>
     </item>
     <item datasource="features" inline="true">
