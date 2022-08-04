@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3349</objectGroupId>
+	<objectId>33496442-f4e9-b06a-efd7-5f1b20271da6</objectId>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;some content&lt;/p&gt;</section_html>
+	</item></sections_o>
+	<image_s/>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<internal-name>Demo</internal-name>
+	<title_t/>
+	<subject_t>Demo</subject_t>
+	<author_s>Russ</author_s>
+	<file-name>index.xml</file-name>
+	<folder-name>demo</folder-name>
+	<categories_o>	<item>	<key>style</key>
+	<value_smv>Style</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item></segments_o>
+	<summary_t>Great Article</summary_t>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<createdDate>2022-08-04T21:24:43.007Z</createdDate>
+	<createdDate_dt>2022-08-04T21:24:43.007Z</createdDate_dt>
+	<lastModifiedDate>2022-08-04T21:24:43.007Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-08-04T21:24:43.007Z</lastModifiedDate_dt>
+	<date_dt>2022-08-04T00:00:00.000Z</date_dt>
+	<date_dt_tz>UTC</date_dt_tz>
+</page>
