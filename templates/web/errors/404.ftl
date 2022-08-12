@@ -1,3 +1,5 @@
+<#import "/templates/system/common/crafter.ftl" as crafter />
+
 <html lang="en">
 	<head>
 		<title>Editorial</title>
@@ -10,8 +12,10 @@
 		<link rel="stylesheet" href="/static-assets/css/jquery-ui.min.css" />
 	</head>
 	<body>
-	<@crafter.controller "/scripts/errors/foo.groovy"
-    	<!-- Wrapper -->
+
+	<@crafter.controller "/scripts/errors/foo.groovy" /><#import "/templates/system/common/crafter.ftl" as crafter />
+
+	<!-- Wrapper -->
 			<div id="wrapper">
 
 				<!-- Main -->
