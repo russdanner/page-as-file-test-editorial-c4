@@ -1,4 +1,5 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
+<#import "/templates/system/common/cstudio-support.ftl" as studio />
 
 <html lang="en">
 	<head>
@@ -13,7 +14,7 @@
 	</head>
 	<body>
 
-	<@crafter.controller path="/scripts/errors/foo.groovy" />
+	<@studio.controller path="/scripts/errors/foo.groovy" />
 	
 	<!-- Wrapper -->
 			<div id="wrapper">
