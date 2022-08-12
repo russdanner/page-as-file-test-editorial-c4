@@ -10,6 +10,7 @@
 		<link rel="stylesheet" href="/static-assets/css/jquery-ui.min.css" />
 	</head>
 	<body>
+	<@crafter.controller "/scripts/errors/foo.groovy"
     	<!-- Wrapper -->
 			<div id="wrapper">
 
