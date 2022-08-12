@@ -14,7 +14,7 @@
 	</head>
 	<body>
 
-	<@studio.controller path="/scripts/errors/foo.groovy" />
+	<@controller path="/scripts/errors/foo.groovy" />
 	
 	<!-- Wrapper -->
 			<div id="wrapper">
