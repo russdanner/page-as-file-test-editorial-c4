@@ -13,8 +13,8 @@
 	</head>
 	<body>
 
-	<@crafter.controller "/scripts/errors/foo.groovy" /><#import "/templates/system/common/crafter.ftl" as crafter />
-
+	<@crafter.controller path="/scripts/errors/foo.groovy" />
+	
 	<!-- Wrapper -->
 			<div id="wrapper">
 
