@@ -1,5 +1,4 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
-<#import "/templates/system/common/cstudio-support.ftl" as studio />
 
 <html lang="en">
 	<head>
@@ -29,7 +28,7 @@
                             <!-- Banner -->
 								<section id="banner">
 									<div class="content">
-										<header><h1>The page you are looking for doesn't exist.</h1></header>
+										<header><h1>The page you are looking for doesn't exist. ${theAnswer}</h1></header>
 										Go back <a href="/">home</a>
 									</div>
 								</section>
