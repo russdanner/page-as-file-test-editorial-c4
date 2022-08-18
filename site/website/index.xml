@@ -11,18 +11,12 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2022-08-03T20:22:30.350Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-08-18T17:12:19.576Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-08-18T17:13:17.092Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html><![CDATA[<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>]]></hero_text_html>
   <hero_title_html><![CDATA[<h1>Editing in my Styles</h1>
 <h3><span style="font-size: 1.5em; color: #e03e2d;">by HTML5 UP</span></h3>]]></hero_title_html>
   <features_o item-list="true">
-    <item datasource="features">
-      <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
-      <value>Smile</value>
-      <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
-      <disableFlattening>false</disableFlattening>
-    </item>
     <item datasource="features" inline="true">
       <key>310b0c87-c3ca-4da0-4aa2-7002a318d7ce</key>
       <value>Download</value>
@@ -47,6 +41,12 @@
         <lastModifiedDate>2019-12-22T11:56:51.172Z</lastModifiedDate>
         <lastModifiedDate_dt>2019-12-22T11:56:51.172Z</lastModifiedDate_dt>
       </component>
+    </item>
+    <item datasource="features">
+      <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
+      <value>Smile</value>
+      <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
+      <disableFlattening>false</disableFlattening>
     </item>
     <item inline="true">
       <key>9a820247-eeba-4dd8-bf06-00d7aa54ccb8</key>
