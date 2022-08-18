@@ -11,11 +11,11 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2022-08-03T20:22:30.350Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-08-18T17:08:55.493Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-08-18T17:11:45.240Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html><![CDATA[<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.eeeeee</p>]]></hero_text_html>
-  <hero_title_html>&lt;h1&gt;Hi, I&amp;rsquo;m Editorial&lt;/h1&gt;
-&lt;h3&gt;&lt;span style="font-size: 1.5em;"&gt;by HTML5 UP&lt;/span&gt;&lt;/h3&gt;</hero_title_html>
+  <hero_title_html><![CDATA[<h1>Editing in my Styles</h1>
+<h3><span style="font-size: 1.5em; color: #e03e2d;">by HTML5 UP</span></h3>]]></hero_title_html>
   <features_o item-list="true">
     <item datasource="features">
       <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
