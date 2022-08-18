@@ -11,7 +11,7 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2022-08-03T20:22:30.350Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-08-18T17:20:14.555Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-08-18T17:20:56.648Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html><![CDATA[<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>]]></hero_text_html>
   <hero_title_html><![CDATA[<h1>Editing in my Styles</h1>
@@ -67,25 +67,7 @@
         <body_html><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></body_html>
       </component>
     </item>
-    <item inline="true">
-      <key>9a820247-eeba-4dd8-bf06-00d7aa54ccb8</key>
-      <value>New Feature</value>
-      <component id="9a820247-eeba-4dd8-bf06-00d7aa54ccb8">
-        <content-type>/component/feature</content-type>
-        <display-template>/templates/web/components/feature.ftl</display-template>
-        <internal-name><![CDATA[New Feature]]></internal-name>
-        <file-name>9a820247-eeba-4dd8-bf06-00d7aa54ccb8.xml</file-name>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <createdDate_dt>2022-08-02T14:36:16.385Z</createdDate_dt>
-        <lastModifiedDate_dt>2022-08-02T14:36:16.385Z</lastModifiedDate_dt>
-        <objectId>9a820247-eeba-4dd8-bf06-00d7aa54ccb8</objectId>
-        <disabled>false</disabled>
-        <icon_s><![CDATA[fa-closed-captioning far]]></icon_s>
-        <title_t><![CDATA[Feature Title]]></title_t>
-        <body_html><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></body_html>
-      </component>
-      <disableFlattening>false</disableFlattening>
-    </item>
+
     <item datasource="features" inline="true">
       <key>a89386c4-a205-2681-2db1-c3606f714411</key>
       <value>Build</value>
