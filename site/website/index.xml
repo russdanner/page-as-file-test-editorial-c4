@@ -11,9 +11,10 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2022-08-19T19:59:17.973Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-08-19T20:45:19.268Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-08-19T20:46:49.228Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
-  <hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
+  <hero_text_html><![CDATA[<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
+<p><img src="/static-assets/images/coffee-pic.jpg" alt="coffee-pic.jpg" width="166" height="105" /></p>]]></hero_text_html>
   <hero_title_html>&lt;h1&gt;Editing in my Styles&lt;/h1&gt;
 &lt;h3&gt;&lt;span style="font-size: 1.5em; color: #e03e2d;"&gt;by HTML5 UP!!!&lt;/span&gt;&lt;/h3&gt;</hero_title_html>
   <features_o item-list="true">
