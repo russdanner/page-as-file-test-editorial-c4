@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
+	<savedAsDraft>true</savedAsDraft>
 	<content-type>/page/article</content-type>
 	<display-template>/templates/web/pages/article.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>42c1</objectGroupId>
 	<objectId>42c14029-f03d-4f7b-6808-05a95a4fbb7b</objectId>
-	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;&lt;strong&gt;consectetur adipiscing&lt;/strong&gt; elit. Phasellus fringilla, ex et pellentesque tincidunt, dolor ligula dictum justo, ac posuere eros purus quis purus. Praesent lobortis vitae lacus maximus mollis. Sed augue tellus, dignissim a est nec, ultricies tempor tellus. Donec sed pharetra tortor. Praesent sagittis sagittis enim, vel semper quam elementum vel. Sed laoreet ultricies erat, eget consequat felis elementum id. Quisque tincidunt, ipsum at malesuada vestibulum, massa nunc sagittis ante, non porttitor erat nulla at tortor. Nulla facilisi. Edits&lt;/p&gt;</section_html>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;&lt;strong&gt;consectetur adipiscing&lt;/strong&gt; elit. Phasellus fringilla, ex et pellentesque tincidunt, dolor ligula dictum justo, ac posuere eros purus quis purus. Praesent lobortis vitae lacus maximus mollis. Sed augue tellus, dignissim a est nec, ultricies tempor tellus. Donec sed pharetra tortor. Praesent sagittis sagittis enim, vel semper quam elementum vel. Sed laoreet ultricies erat, eget consequat felis elementum id. Quisque tincidunt, ipsum at malesuada vestibulum, massa nunc sagittis ante, non porttitor erat nulla at tortor. Nulla facilisi. Edits. Another change&lt;/p&gt;</section_html>
 	</item></sections_o>
 	<disabled>false</disabled>
 	<featured_b>false</featured_b>
@@ -32,8 +33,8 @@
 	<image_s>/static-assets/images/strawberries.jpg</image_s>
 	<createdDate>2022-08-19T18:25:38.484Z</createdDate>
 	<createdDate_dt>2022-08-19T18:25:38.484Z</createdDate_dt>
-	<lastModifiedDate>2022-08-19T18:25:38.484Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-08-19T18:25:38.484Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-08-19T18:32:04.933Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-08-19T18:32:04.933Z</lastModifiedDate_dt>
 	<date_dt>2022-08-19T00:00:00.000Z</date_dt>
 	<date_dt_tz>UTC</date_dt_tz>
 </page>
