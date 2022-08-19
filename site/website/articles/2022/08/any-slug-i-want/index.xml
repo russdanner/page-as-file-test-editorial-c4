@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
+	<savedAsDraft>true</savedAsDraft>
 	<content-type>/page/article</content-type>
 	<display-template>/templates/web/pages/article.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>4048</objectGroupId>
 	<objectId>40489e5f-3a2f-52f5-8fcc-b36a6f6fc054</objectId>
-	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus fringilla, ex et pellentesque tincidunt, dolor ligula dictum justo, ac posuere eros purus quis purus. Praesent lobortis vitae lacus maximus mollis. Sed augue tellus, dignissim a est nec, ultricies tempor tellus. Donec sed pharetra tortor. Praesent sagittis sagittis enim, vel semper quam elementum vel. Sed laoreet ultricies erat, eget consequat felis elementum id. Quisque tincidunt, ipsum at malesuada vestibulum, massa nunc sagittis ante, non porttitor erat nulla at tortor. Nulla facilisi.&lt;/p&gt;
+	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;&lt;strong&gt;Lorem ipsum dolor sit amet, &lt;/strong&gt;consectetur adipiscing elit. Phasellus fringilla, ex et pellentesque tincidunt, dolor ligula dictum justo, ac posuere eros purus quis purus. Praesent lobortis vitae lacus maximus mollis. Sed augue tellus, dignissim a est nec, ultricies tempor tellus. Donec sed pharetra tortor. Praesent sagittis sagittis enim, vel semper quam elementum vel. Sed laoreet ultricies erat, eget consequat felis elementum id. Quisque tincidunt, ipsum at malesuada vestibulum, massa nunc sagittis ante, non porttitor erat nulla at tortor. Nulla facilisi.&lt;/p&gt;
 &lt;p&gt;Duis sed ex eu nibh blandit commodo at quis turpis. Integer vitae sapien eleifend, porta ipsum vel, aliquet est. Donec et molestie lacus. Integer sed fringilla nulla. Sed ullamcorper placerat mollis. Fusce elit nisi, interdum ut eleifend egestas, fringilla at tellus. Sed ac varius neque, eget euismod mauris. Sed eget diam non metus vestibulum accumsan. Cras ut volutpat neque.&lt;/p&gt;</section_html>
 	</item></sections_o>
 	<summary_t>Training Summary</summary_t>
@@ -31,8 +32,8 @@
 	<author_s>Training Author</author_s>
 	<createdDate>2022-08-19T16:32:02.867Z</createdDate>
 	<createdDate_dt>2022-08-19T16:32:02.867Z</createdDate_dt>
-	<lastModifiedDate>2022-08-19T16:32:02.867Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-08-19T16:32:02.867Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-08-19T16:41:01.329Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-08-19T16:41:01.329Z</lastModifiedDate_dt>
 	<date_dt>2022-08-19T00:00:00.000Z</date_dt>
 	<date_dt_tz>UTC</date_dt_tz>
 </page>
