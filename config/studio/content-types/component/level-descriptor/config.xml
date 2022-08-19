@@ -28,7 +28,7 @@
 	<image-thumbnail>section-defaults.png</image-thumbnail>
 	<paths>
 		<includes>
-			<pattern>^/site/website/.*</pattern>
+			<pattern>^/site/website/x/.*</pattern>
 		</includes>
 	</paths>
 </content-type>
