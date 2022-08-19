@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
+	<savedAsDraft>true</savedAsDraft>
 	<content-type>/page/home</content-type>
 	<display-template>/templates/web/pages/home.ftl</display-template>
 	<no-template-required/>
@@ -10,8 +11,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2022-08-18T18:32:24.462Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-08-18T18:32:24.462Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-08-19T16:39:15.090Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-08-19T16:39:15.090Z</lastModifiedDate_dt>
 	<title_t>Editorial</title_t>
 	<hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
 	<hero_title_html>&lt;h1&gt;Editing in my Styles&lt;/h1&gt;
@@ -68,6 +69,7 @@
       </component>
 	</item>	<item inline="true">	<key>2d80734a-6e19-4d91-93e7-db9f0a9edc57</key>
 	<value>New Feature</value>
+	<disableFlattening>false</disableFlattening>
 <component id="2d80734a-6e19-4d91-93e7-db9f0a9edc57">
         <content-type>/component/feature</content-type>
         <display-template>/templates/web/components/feature.ftl</display-template>
@@ -82,7 +84,6 @@
         <title_t><![CDATA[Our edits]]></title_t>
         <body_html><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></body_html>
       </component>
-	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="features">	<key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
 	<value>Closed captioning</value>
 	<include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
