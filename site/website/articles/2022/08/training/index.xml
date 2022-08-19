@@ -8,7 +8,7 @@
   <objectId>afbdb62c-fa79-3e3d-6b13-1d7fd66de358</objectId>
   <sections_o item-list="true">
     <item>
-      <section_html>&lt;p&gt;&lt;strong&gt;consectetur&lt;/strong&gt; adipiscing elit. Phasellus fringilla, ex et pellentesque tincidunt, dolor ligula dictum justo, ac posuere eros purus quis purus. Praesent lobortis vitae lacus maximus mollis. Sed augue tellus, dignissim a est nec, ultricies tempor tellus. Donec sed pharetra tortor. Praesent sagittis sagittis enim, vel semper quam elementum vel. Sed laoreet ultricies erat, eget consequat felis elementum id. Quisque tincidunt, ipsum at malesuada vestibulum, massa nunc sagittis ante, non porttitor erat nulla at tortor. Nulla facilisi.&lt;/p&gt;</section_html>
+      <section_html><![CDATA[<p><strong>consectetur</strong> adipiscing elit. Phasellus fringilla, ex et pellentesque tincidunt, dolor ligula dictum justo, ac posuere eros purus quis purus. Praesent lobortis vitae lacus maximus mollis. Sed augue tellus, dignissim a est nec, ultricies tempor tellus. Donec sed pharetra tortor. Praesent sagittis sagittis enim, vel semper quam elementum vel. Sed laoreet ultricies erat, eget consequat felis elementum id. Quisque tincidunt, ipsum at malesuada vestibulum, massa nunc sagittis ante, non porttitor erat nulla at tortor. Nulla facilisi. Another edit</p>]]></section_html>
     </item>
   </sections_o>
   <summary_t>Training article summary</summary_t>
@@ -46,7 +46,7 @@
   <createdDate>2022-08-19T18:43:19.915Z</createdDate>
   <createdDate_dt>2022-08-19T18:43:19.915Z</createdDate_dt>
   <lastModifiedDate>2022-08-19T18:50:21.023Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-08-19T18:53:54.372Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-08-19T18:54:05.883Z</lastModifiedDate_dt>
   <date_dt>2022-08-19T00:00:00.000Z</date_dt>
   <date_dt_tz>UTC</date_dt_tz>
 </page>
