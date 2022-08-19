@@ -42,11 +42,11 @@
     </item>
   </segments_o>
   <summary_t>An article about training</summary_t>
-  <image_s>/static-assets/images/strawberries.jpg</image_s>
+  <image_s><![CDATA[/static-assets/images/clubs-virginia-pic.jpg]]></image_s>
   <createdDate>2022-08-19T18:25:38.484Z</createdDate>
   <createdDate_dt>2022-08-19T18:25:38.484Z</createdDate_dt>
   <lastModifiedDate>2022-08-19T18:32:04.933Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-08-19T18:33:13.002Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-08-19T18:33:19.505Z</lastModifiedDate_dt>
   <date_dt>2022-08-19T00:00:00.000Z</date_dt>
   <date_dt_tz>UTC</date_dt_tz>
 </page>
