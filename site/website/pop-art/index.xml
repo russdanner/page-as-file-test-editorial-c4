@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/category-landing</content-type>
+	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fb19</objectGroupId>
+	<objectId>fb199419-da02-1469-289e-16bcdb1c6934</objectId>
+	<internal-name>Pop Art</internal-name>
+	<title_t>Pop Art</title_t>
+	<articles_title_t>Pop Art</articles_title_t>
+	<disabled>false</disabled>
+	<file-name>index.xml</file-name>
+	<folder-name>pop-art</folder-name>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<max_articles_i>10</max_articles_i>
+	<category_s>style</category_s>
+	<createdDate>2022-08-19T21:09:44.791Z</createdDate>
+	<createdDate_dt>2022-08-19T21:09:44.791Z</createdDate_dt>
+	<lastModifiedDate>2022-08-19T21:09:44.791Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-08-19T21:09:44.791Z</lastModifiedDate_dt>
+</page>
