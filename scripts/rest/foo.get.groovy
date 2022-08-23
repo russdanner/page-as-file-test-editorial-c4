@@ -12,6 +12,7 @@ import com.rometools.rome.feed.rss.Image;
 import com.rometools.rome.feed.rss.Item;
 import com.rometools.rome.feed.synd.SyndPerson;
 import com.rometools.rome.io.SyndFeedOutput;
+import com.rometools.rome.feed.synd.SyndFeedImpl
 
 SyndFeed feed = new SyndFeedImpl();
 feed.setFeedType("rss_1.0");
