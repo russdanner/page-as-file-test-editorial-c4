@@ -11,6 +11,7 @@ import com.rometools.rome.feed.rss.Description;
 import com.rometools.rome.feed.rss.Image;
 import com.rometools.rome.feed.rss.Item;
 import com.rometools.rome.feed.synd.SyndPerson;
+import com.rometools.rome.io.SyndFeedOutput;
 
     Channel channel = new Channel();
     channel.setFeedType("rss_2.0");
