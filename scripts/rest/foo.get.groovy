@@ -24,4 +24,4 @@ SyndFeedOutput output = new SyndFeedOutput();
 def feedResponse = output.outputString(feed, true);
 
 response.setContentType("text/rss+xml")
-response.getOutputStream().write(feedResponse)    
+response.getOutputStream().write(feedResponse.getBytes("UTF-8"))    
