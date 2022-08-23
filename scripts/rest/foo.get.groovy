@@ -21,7 +21,7 @@ entry.setDescription(description);
 feed.setEntries(Arrays.asList(entry));
 
 SyndFeedOutput output = new SyndFeedOutput();
+def feedResponse = output.outputString(feed, true);
 
 response.setContentType("text/rss+xml")
-return output.outputString(feed, true);
-    
+feedResponse.write(feedResponse)    
