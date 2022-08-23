@@ -56,6 +56,5 @@ import com.rometools.rome.io.SyndFeedOutput;
     
     
     SyndFeedOutput output = new SyndFeedOutput();
-  output.output(channel,response.getWriter());
+  return output.outputString(channel, true);
     
-        return output
