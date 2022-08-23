@@ -1,6 +1,16 @@
 @Grab(group='rome', module='rome', version='1.0')
 
-import com.rometools.rome.*;
+import com.rometools.rome.feed.atom.Category;
+import com.rometools.rome.feed.atom.Content;
+import com.rometools.rome.feed.atom.Entry;
+import com.rometools.rome.feed.atom.Feed;
+import com.rometools.rome.feed.atom.Link;
+import com.rometools.rome.feed.atom.Person;
+import com.rometools.rome.feed.rss.Channel;
+import com.rometools.rome.feed.rss.Description;
+import com.rometools.rome.feed.rss.Image;
+import com.rometools.rome.feed.rss.Item;
+import com.rometools.rome.feed.synd.SyndPerson;
 
     Feed feed = new Feed();
     feed.setFeedType("atom_1.0");
