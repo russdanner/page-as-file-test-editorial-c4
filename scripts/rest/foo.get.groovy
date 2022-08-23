@@ -1,3 +1,6 @@
+@Grab(group='rome', module='rome', version='1.0')
+
+import com.rometools.rome.*;
 
     Feed feed = new Feed();
     feed.setFeedType("atom_1.0");
