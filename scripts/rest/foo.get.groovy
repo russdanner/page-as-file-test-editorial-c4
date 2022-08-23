@@ -20,8 +20,8 @@ entry.setDescription(description);
     
 feed.setEntries(Arrays.asList(entry));
 
-    
-    
-    SyndFeedOutput output = new SyndFeedOutput();
-  return output.outputString(feed, true);
+SyndFeedOutput output = new SyndFeedOutput();
+
+response.setContentType("text/rss+xml")
+return output.outputString(feed, true);
     
