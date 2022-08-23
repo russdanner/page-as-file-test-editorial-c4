@@ -11,6 +11,7 @@ import com.rometools.rome.feed.rss.Description;
 import com.rometools.rome.feed.rss.Image;
 import com.rometools.rome.feed.rss.Item;
 import com.rometools.rome.feed.synd.SyndPerson;
+
     Channel channel = new Channel();
     channel.setFeedType("rss_2.0");
     channel.setTitle("HowToDoInJava Feed");
@@ -49,4 +50,4 @@ import com.rometools.rome.feed.synd.SyndPerson;
  
     channel.setItems(Collections.singletonList(item));
     //Like more Entries here about different new topics
-    return channel;
+    return channel.toString()
