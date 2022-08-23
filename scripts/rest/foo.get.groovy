@@ -47,7 +47,14 @@ import com.rometools.rome.feed.synd.SyndPerson;
             + "The post <a rel=\"nofollow\" href=\"https://howtodoinjava.com/spring5/webmvc/spring-mvc-cors-configuration/\">Spring CORS Configuration Examples</a> appeared first on <a rel=\"nofollow\" href=\"https://howtodoinjava.com\">HowToDoInJava</a>.");
     item.setDescription(descr);
     item.setPubDate(postDate);
+    
  
     channel.setItems(Collections.singletonList(item));
     //Like more Entries here about different new topics
-    return channel.toString()
+
+    
+    
+    SyndFeedOutput output = new SyndFeedOutput();
+  output.output(channel,writer);
+    
+        return output
