@@ -11,12 +11,30 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2022-08-19T19:59:17.973Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-08-19T21:10:55.711Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-09-20T21:47:45.516Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html><![CDATA[<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>]]></hero_text_html>
   <hero_title_html><![CDATA[<h1>Headline</h1>
 <h3><span style="font-size: 1.5em; color: #e03e2d;">by HTML5 UP!!!</span></h3>]]></hero_title_html>
   <features_o item-list="true">
+    <item datasource="" inline="true">
+      <key>da19715f-4344-4530-9a86-b55cd4b08b82</key>
+      <value><![CDATA[New Feature]]></value>
+      <component id="da19715f-4344-4530-9a86-b55cd4b08b82">
+        <content-type>/component/feature</content-type>
+        <display-template>/templates/web/components/feature.ftl</display-template>
+        <internal-name><![CDATA[New Feature]]></internal-name>
+        <file-name>da19715f-4344-4530-9a86-b55cd4b08b82.xml</file-name>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <createdDate_dt>2022-09-20T21:47:45.515Z</createdDate_dt>
+        <lastModifiedDate_dt>2022-09-20T21:47:45.515Z</lastModifiedDate_dt>
+        <objectId>da19715f-4344-4530-9a86-b55cd4b08b82</objectId>
+        <disabled>false</disabled>
+        <icon_s><![CDATA[fa-closed-captioning far]]></icon_s>
+        <title_t><![CDATA[Feature Title]]></title_t>
+        <body_html><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></body_html>
+      </component>
+    </item>
     <item datasource="features" inline="true">
       <key>a89386c4-a205-2681-2db1-c3606f714411</key>
       <value>Build</value>
